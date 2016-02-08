@@ -8,7 +8,7 @@ setup `basic` ledger workflow
 
 # command to run (bash)
 
-    credit insert $SOURCE $AMOUNT $CURRENCY $DESTINATION $DESCRIPTION  
+    mark $SOURCE $AMOUNT $CURRENCY $DESTINATION $DESCRIPTION  
 
 * source is the source of the marks
 * destination is the mark recipient
