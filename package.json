@@ -1,6 +1,6 @@
 {
   "name": "marking",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "marking API",
   "main": "index.js",
   "scripts": {
@@ -20,7 +20,7 @@
     "webcredits": "0.0.35"
   },
   "bin": {
-    "mark": "./credit.js insert"
+    "mark": "bin/mark.js"
   }
 
 }
