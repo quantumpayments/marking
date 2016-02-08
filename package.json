@@ -1,0 +1,19 @@
+{
+  "name": "marking",
+  "version": "0.0.1",
+  "description": "marking API",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quantumpayments/marking.git"
+  },
+  "author": "Melvin Carvalho <melvincarvalho@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/quantumpayments/marking/issues"
+  },
+  "homepage": "https://github.com/quantumpayments/marking#readme"
+}
