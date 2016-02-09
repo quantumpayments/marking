@@ -1,6 +1,6 @@
 {
   "name": "marking",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "marking API",
   "main": "index.js",
   "scripts": {
@@ -21,6 +21,9 @@
   },
   "bin": {
     "mark": "bin/mark.js"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5"
   }
-
 }
