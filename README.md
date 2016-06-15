@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/quantumpayments/marking.png?label=ready&title=Ready)](https://waffle.io/quantumpayments/marking)
 # marking
 marking allows you to mark good work to gain credits and reputation
 
